@@ -23,3 +23,9 @@ Use at least 5 different HTML elements.
 Ensure semantic correctness.
 
 Good luck and happy coding! 🚀💻
+
+
+
+
+Deployment link 
+https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-Hamidah2006/
